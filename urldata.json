@@ -1,0 +1,6 @@
+{
+  "get" : "https://reqres.in/api/users?page=2",
+  "post" : "https://reqres.in/api/users",
+  "put" : "https://reqres.in/api/users/2",
+  "delete" : "https://reqres.in/api/users/2"
+}
